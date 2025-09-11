@@ -1,0 +1,6 @@
+ID,Donativo,Proveedor,Observaciones,Estado 
+D00004,Garbanzos|2.0,Restaurante Comida Rica,Empacados ,true
+D00005,pollo|4.0,daniel,grande y jugoso 19/05/2025,false
+D00001,Carne|4.0-Pescado|3.0,Hotel Mucha Comida,Creado el 19/05/2025  ,false
+D00002,Ensalada|3.0-Pechuga|2.0,Restaurante Comida Rica,Elaborado el día 17/05/2025,false
+D00003,Longaniza|3.0-Arroz|1.0,Restaurante Comida Rica,Comida fresca de evento realizado el 20/05/2025,false
